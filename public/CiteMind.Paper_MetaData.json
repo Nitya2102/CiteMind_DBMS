@@ -1,0 +1,2377 @@
+[{
+  "_id": "1709.09362",
+  "paper_id": "1709.09362",
+  "title": "Bose-Einstein condensation in heavy ion collisions: importance of and\n  uncertainties in the finite volume corrections",
+  "authors": [
+    "Kacper Zalewski"
+  ],
+  "raw_authors_string": "Kacper Zalewski",
+  "categories": [
+    "hep-ph",
+    "nucl-th"
+  ],
+  "selected_category": "hep-ph",
+  "submitter": "Kacper Zalewski",
+  "comments": "8 pages, one figure",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 0,
+  "year": 2017
+},
+{
+  "_id": "1808.04112",
+  "paper_id": "1808.04112",
+  "title": "Anapole Dark Matter after DAMA/LIBRA-phase2",
+  "authors": [
+    "Sunghyun Kang",
+    "Stefano Scopel",
+    "Gaurav Tomar",
+    "Jong-Hyun Yoon",
+    "Paolo Gondolo"
+  ],
+  "raw_authors_string": "Sunghyun Kang, Stefano Scopel, Gaurav Tomar, Jong-Hyun Yoon (Sogang\n  U.), Paolo Gondolo (Utah U.)",
+  "categories": [
+    "hep-ph",
+    "astro-ph.CO"
+  ],
+  "selected_category": "hep-ph",
+  "submitter": "Stefano Scopel",
+  "comments": "16 pages, 6 figures. Updated to published version",
+  "journal_ref": "JCAP 1811(2018) no.11,040",
+  "doi": "10.1088/1475-7516/2018/11/040",
+  "report_no": null,
+  "citation_count": 15,
+  "year": 2018
+},
+{
+  "_id": "hep-ph/9405384",
+  "paper_id": "hep-ph/9405384",
+  "title": "Heavy Quark Production at $e^+ e^-$ Colliders in Multijet Events and a\n  New Method of Computing Helicity Amplitudes",
+  "authors": [
+    "Alessandro Ballestrero",
+    "Ezio Maina",
+    "Stefano Moretti"
+  ],
+  "raw_authors_string": "Alessandro Ballestrero, Ezio Maina and Stefano Moretti (U. of Torino,\n  Italy)",
+  "categories": [
+    "hep-ph"
+  ],
+  "selected_category": "hep-ph",
+  "submitter": null,
+  "comments": "LateX, 6 pag + 2 figs uucompressed",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 3,
+  "year": 1994
+},
+{
+  "_id": "1005.1805",
+  "paper_id": "1005.1805",
+  "title": "A review of Quantum Gravity at the Large Hadron Collider",
+  "authors": [
+    "Xavier Calmet"
+  ],
+  "raw_authors_string": "Xavier Calmet",
+  "categories": [
+    "hep-ph",
+    "gr-qc",
+    "hep-ex",
+    "hep-th"
+  ],
+  "selected_category": "hep-ph",
+  "submitter": "Xavier Calmet",
+  "comments": "32 pages, invited review",
+  "journal_ref": "Mod.Phys.Lett.A25:1553-1579,2010",
+  "doi": "10.1142/S0217732310033591",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2010
+},
+{
+  "_id": "1906.05596",
+  "paper_id": "1906.05596",
+  "title": "$c^+$GAN: Complementary Fashion Item Recommendation",
+  "authors": [
+    "Sudhir Kumar",
+    "Mithun Das Gupta"
+  ],
+  "raw_authors_string": "Sudhir Kumar and Mithun Das Gupta",
+  "categories": [
+    "cs.CV",
+    "cs.IR",
+    "cs.LG"
+  ],
+  "selected_category": "cs.CV",
+  "submitter": "Mithun Das Gupta",
+  "comments": "KDD'19: Workshop on AI for Fashion. arXiv admin note: text overlap\n  with arXiv:1806.08977, arXiv:1411.1784, arXiv:1609.04802 by other authors",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 25,
+  "year": 2019
+},
+{
+  "_id": "2401.01179",
+  "paper_id": "2401.01179",
+  "title": "Freeze the backbones: A Parameter-Efficient Contrastive Approach to\n  Robust Medical Vision-Language Pre-training",
+  "authors": [
+    "Jiuming Qin",
+    "Che Liu",
+    "Sibo Cheng",
+    "Yike Guo",
+    "Rossella Arcucci"
+  ],
+  "raw_authors_string": "Jiuming Qin, Che Liu, Sibo Cheng, Yike Guo, Rossella Arcucci",
+  "categories": [
+    "cs.CV",
+    "cs.AI",
+    "cs.LG"
+  ],
+  "selected_category": "cs.CV",
+  "submitter": "Jiuming Qin",
+  "comments": "Accepted by ICASSP 2024",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2024
+},
+{
+  "_id": "2503.14665",
+  "paper_id": "2503.14665",
+  "title": "These Magic Moments: Differentiable Uncertainty Quantification of\n  Radiance Field Models",
+  "authors": [
+    "Parker Ewen",
+    "Hao Chen",
+    "Seth Isaacson",
+    "Joey Wilson",
+    "Katherine A. Skinner",
+    "Ram Vasudevan"
+  ],
+  "raw_authors_string": "Parker Ewen, Hao Chen, Seth Isaacson, Joey Wilson, Katherine A.\n  Skinner, Ram Vasudevan",
+  "categories": [
+    "cs.CV",
+    "cs.RO"
+  ],
+  "selected_category": "cs.CV",
+  "submitter": "Parker Ewen",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2025
+},
+{
+  "_id": "1810.12163",
+  "paper_id": "1810.12163",
+  "title": "Real-Time RGB-D Camera Pose Estimation in Novel Scenes using a\n  Relocalisation Cascade",
+  "authors": [
+    "Tommaso Cavallari",
+    "Stuart Golodetz",
+    "Nicholas A. Lord",
+    "Julien Valentin",
+    "Victor A. Prisacariu",
+    "Luigi Di Stefano",
+    "Philip H. S. Torr"
+  ],
+  "raw_authors_string": "Tommaso Cavallari, Stuart Golodetz, Nicholas A. Lord, Julien Valentin,\n  Victor A. Prisacariu, Luigi Di Stefano, Philip H. S. Torr",
+  "categories": [
+    "cs.CV"
+  ],
+  "selected_category": "cs.CV",
+  "submitter": "Stuart Golodetz",
+  "comments": "Tommaso Cavallari, Stuart Golodetz, Nicholas Lord and Julien Valentin\n  assert joint first authorship",
+  "journal_ref": null,
+  "doi": "10.1109/TPAMI.2019.2915068",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2018
+},
+{
+  "_id": "2404.08304",
+  "paper_id": "2404.08304",
+  "title": "Uncertainty relations based on the $\\rho$-absolute variance for quantum\n  channels",
+  "authors": [
+    "Cong Xu",
+    "Wen Zhou",
+    "Qing-Hua Zhang",
+    "Shao-Ming Fei"
+  ],
+  "raw_authors_string": "Cong Xu and Wen Zhou and Qing-Hua Zhang and Shao-Ming Fei",
+  "categories": [
+    "quant-ph"
+  ],
+  "selected_category": "quant-ph",
+  "submitter": "Cong Xu",
+  "comments": null,
+  "journal_ref": "Quantum Inf. Process. 23, 283 (2024)",
+  "doi": "10.1007/s11128-024-04493-9",
+  "report_no": null,
+  "citation_count": 0,
+  "year": 2024
+},
+{
+  "_id": "quant-ph/0510130",
+  "paper_id": "quant-ph/0510130",
+  "title": "Teleportation from a Projection Operator Point of View",
+  "authors": [
+    "Noam Erez"
+  ],
+  "raw_authors_string": "Noam Erez",
+  "categories": [
+    "quant-ph"
+  ],
+  "selected_category": "quant-ph",
+  "submitter": "Noam Erez",
+  "comments": "References added; typos corrected",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 6,
+  "year": 2005
+},
+{
+  "_id": "1808.04632",
+  "paper_id": "1808.04632",
+  "title": "Multiqubit matter-wave interferometry under decoherence and the\n  Heisenberg scaling recovery",
+  "authors": [
+    "Yanming Che",
+    "Jing Liu",
+    "Xiao-Ming Lu",
+    "Xiaoguang Wang"
+  ],
+  "raw_authors_string": "Yanming Che, Jing Liu, Xiao-Ming Lu, and Xiaoguang Wang",
+  "categories": [
+    "quant-ph"
+  ],
+  "selected_category": "quant-ph",
+  "submitter": "Yanming Che",
+  "comments": "9 pages, 4 figures",
+  "journal_ref": "Phys. Rev. A 99, 033807 (2019)",
+  "doi": "10.1103/PhysRevA.99.033807",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2018
+},
+{
+  "_id": "2301.08908",
+  "paper_id": "2301.08908",
+  "title": "On efficient quantum block encoding of pseudo-differential operators",
+  "authors": [
+    "Haoya Li",
+    "Hongkang Ni",
+    "Lexing Ying"
+  ],
+  "raw_authors_string": "Haoya Li, Hongkang Ni, Lexing Ying",
+  "categories": [
+    "quant-ph",
+    "cs.NA",
+    "math.NA"
+  ],
+  "selected_category": "quant-ph",
+  "submitter": "Haoya Li",
+  "comments": "28 pages, 9 figures, v3 accepted by Quantum",
+  "journal_ref": "Quantum 7, 1031 (2023)",
+  "doi": "10.22331/q-2023-06-02-1031",
+  "report_no": null,
+  "citation_count": 16,
+  "year": 2023
+},
+{
+  "_id": "2012.11743",
+  "paper_id": "2012.11743",
+  "title": "Cost-sensitive Semi-supervised Classification for Fraud Applications",
+  "authors": [
+    "Sulaf Elshaar",
+    "Samira Sadaoui"
+  ],
+  "raw_authors_string": "Sulaf Elshaar, Samira Sadaoui",
+  "categories": [
+    "cs.LG"
+  ],
+  "selected_category": "cs.LG",
+  "submitter": "Sulaf Elshaar",
+  "comments": "15 pages",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2020
+},
+{
+  "_id": "2411.07681",
+  "paper_id": "2411.07681",
+  "title": "What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?",
+  "authors": [
+    "Katie Kang",
+    "Amrith Setlur",
+    "Dibya Ghosh",
+    "Jacob Steinhardt",
+    "Claire Tomlin",
+    "Sergey Levine",
+    "Aviral Kumar"
+  ],
+  "raw_authors_string": "Katie Kang, Amrith Setlur, Dibya Ghosh, Jacob Steinhardt, Claire\n  Tomlin, Sergey Levine, Aviral Kumar",
+  "categories": [
+    "cs.LG"
+  ],
+  "selected_category": "cs.LG",
+  "submitter": "Katie Kang",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 14,
+  "year": 2024
+},
+{
+  "_id": "2509.11633",
+  "paper_id": "2509.11633",
+  "title": "Adaptive-GraphSketch: Real-Time Edge Anomaly Detection via Multi-Layer Tensor Sketching and Temporal Decay",
+  "authors": [
+    "Ocheme Anthony Ekle",
+    "William Eberle"
+  ],
+  "raw_authors_string": "Ocheme Anthony Ekle and William Eberle",
+  "categories": [
+    "cs.LG"
+  ],
+  "selected_category": "cs.LG",
+  "submitter": "Ocheme Anthony Ekle",
+  "comments": "10 pages, 6 figures. Accepted for presentation at the IEEE International Conference on Knowledge Graphs (ICKG 2025). This is the authors accepted version; the final published paper will be available via IEEE Xplore",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 0,
+  "year": 2025
+},
+{
+  "_id": "1810.01398",
+  "paper_id": "1810.01398",
+  "title": "Optimal Completion Distillation for Sequence Learning",
+  "authors": [
+    "Sara Sabour",
+    "William Chan",
+    "Mohammad Norouzi"
+  ],
+  "raw_authors_string": "Sara Sabour, William Chan, Mohammad Norouzi",
+  "categories": [
+    "cs.LG",
+    "cs.AI",
+    "cs.CL",
+    "stat.ML"
+  ],
+  "selected_category": "cs.LG",
+  "submitter": "Sara Sabour",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2018
+},
+{
+  "_id": "hep-th/9909122",
+  "paper_id": "hep-th/9909122",
+  "title": "Mordell-Weil Lattice via String Junctions",
+  "authors": [
+    "Mitsuaki Fukae",
+    "Yasuhiko Yamada",
+    "Sung-Kil Yang"
+  ],
+  "raw_authors_string": "Mitsuaki Fukae, Yasuhiko Yamada, Sung-Kil Yang",
+  "categories": [
+    "hep-th"
+  ],
+  "selected_category": "hep-th",
+  "submitter": "Sung-Kil Yang",
+  "comments": "35 pages, Latex, 3 figures",
+  "journal_ref": "Nucl.Phys. B572 (2000) 71-94",
+  "doi": "10.1016/S0550-3213(00)00013-4",
+  "report_no": "UTHEP-408",
+  "citation_count": 31,
+  "year": 1999
+},
+{
+  "_id": "1304.6407",
+  "paper_id": "1304.6407",
+  "title": "Why Comparable? A Multiverse Explanation of the Dark Matter-Baryon\n  Coincidence",
+  "authors": [
+    "Raphael Bousso",
+    "Lawrence Hall"
+  ],
+  "raw_authors_string": "Raphael Bousso and Lawrence Hall",
+  "categories": [
+    "hep-th",
+    "astro-ph.CO",
+    "hep-ph"
+  ],
+  "selected_category": "hep-th",
+  "submitter": "Raphael Bousso",
+  "comments": "20 pages JHEP format, 2 figures; v2: added references and a comment\n  on multi-component dark matter; v3: final version for PRD, minor\n  clarifications",
+  "journal_ref": null,
+  "doi": "10.1103/PhysRevD.88.063503",
+  "report_no": null,
+  "citation_count": 25,
+  "year": 2013
+},
+{
+  "_id": "2505.10626",
+  "paper_id": "2505.10626",
+  "title": "$\\mathcal{I}$-Extremization for AdS$_4$ Black Holes: Master Volume, Free Energy, and Baryonic Charges",
+  "authors": [
+    "Seyed Morteza Hosseini",
+    "Alberto Zaffaroni"
+  ],
+  "raw_authors_string": "Seyed Morteza Hosseini, Alberto Zaffaroni",
+  "categories": [
+    "hep-th"
+  ],
+  "selected_category": "hep-th",
+  "submitter": "Seyed Morteza Hosseini",
+  "comments": "50 pages",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2025
+},
+{
+  "_id": "1110.4048",
+  "paper_id": "1110.4048",
+  "title": "Creation of Matter in the Universe and Groups of Type E7",
+  "authors": [
+    "Sergio Ferrara",
+    "Renata Kallosh"
+  ],
+  "raw_authors_string": "Sergio Ferrara and Renata Kallosh",
+  "categories": [
+    "hep-th"
+  ],
+  "selected_category": "hep-th",
+  "submitter": "Kallosh Renata",
+  "comments": "15 pages, 2 tables",
+  "journal_ref": null,
+  "doi": "10.1007/JHEP12(2011)096",
+  "report_no": "CERN-PH-TH/2011-242; SU-ITP-2011-48",
+  "citation_count": 42,
+  "year": 2011
+},
+{
+  "_id": "astro-ph/0506081",
+  "paper_id": "astro-ph/0506081",
+  "title": "End-effects in rapidly rotating cylindrical Taylor-Couette flow",
+  "authors": [
+    "Rainer Hollerbach",
+    "Alexandre Fournier"
+  ],
+  "raw_authors_string": "Rainer Hollerbach, Alexandre Fournier",
+  "categories": [
+    "astro-ph"
+  ],
+  "selected_category": "astro-ph",
+  "submitter": "Rainer Hollerbach",
+  "comments": null,
+  "journal_ref": "AIP Conf.Proc.733:114-121,2004",
+  "doi": "10.1063/1.1832141",
+  "report_no": null,
+  "citation_count": 37,
+  "year": 2005
+},
+{
+  "_id": "0803.2384",
+  "paper_id": "0803.2384",
+  "title": "Frequency Correlation of QPOs Based on a Resonantly-Excited\n  Disk-Oscillation Model",
+  "authors": [
+    "Shoji Kato"
+  ],
+  "raw_authors_string": "Shoji Kato",
+  "categories": [
+    "astro-ph"
+  ],
+  "selected_category": "astro-ph",
+  "submitter": "Shoji Kato",
+  "comments": "18 pages, 9 figures, to be published in PASJ Vol. 60 (2008),No 4\n  (August)",
+  "journal_ref": null,
+  "doi": "10.1093/pasj/60.4.889",
+  "report_no": null,
+  "citation_count": 29,
+  "year": 2008
+},
+{
+  "_id": "astro-ph/9601149",
+  "paper_id": "astro-ph/9601149",
+  "title": "The Effects of Fe II NLTE on Nova Atmospheres and Spectra",
+  "authors": [
+    "Peter H. Hauschildt",
+    "E. Baron",
+    "Sumner Starrfield",
+    "France Allard"
+  ],
+  "raw_authors_string": "Peter H. Hauschildt (Arizona State University), E. Baron (University\n  of Oklahoma), Sumner Starrfield (ASU), France Allard (Wichita State\n  University)",
+  "categories": [
+    "astro-ph"
+  ],
+  "selected_category": "astro-ph",
+  "submitter": "Peter Hauschildt",
+  "comments": "25 pages, latex, AASTEX, figures not included, full text plus figures\n  available via http://brian.la.asu.edu/ or at\n  ftp://brian.la.asu.edu/FeII-nova.tgz, to appear in ApJ",
+  "journal_ref": null,
+  "doi": "10.1086/177160",
+  "report_no": null,
+  "citation_count": 57,
+  "year": 1996
+},
+{
+  "_id": "astro-ph/9906423",
+  "paper_id": "astro-ph/9906423",
+  "title": "Line-of-Sight Anisotropies within X-ray Luminous Cluster Samples",
+  "authors": [
+    "C. J. Miller",
+    "M. J. Ledlow",
+    "D. J. Batuski"
+  ],
+  "raw_authors_string": "C.J. Miller (1), M.J. Ledlow (2), D.J. Batuski (1) ((1) University of\n  Maine, (2) University of New Mexico)",
+  "categories": [
+    "astro-ph"
+  ],
+  "selected_category": "astro-ph",
+  "submitter": "Christopher Miller",
+  "comments": "20 pages, 7 figures, LaTeX, submitted for publication in MNRAS",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 2,
+  "year": 1999
+},
+{
+  "_id": "2406.06641",
+  "paper_id": "2406.06641",
+  "title": "News and Load: Social and Economic Drivers of Regional Multi-horizon Electricity Demand Forecasting",
+  "authors": [
+    "Yun Bai",
+    "Simon Camal",
+    "Andrea Michiorri"
+  ],
+  "raw_authors_string": "Yun Bai, Simon Camal, Andrea Michiorri",
+  "categories": [
+    "cs.CL",
+    "cs.LG"
+  ],
+  "selected_category": "cs.CL",
+  "submitter": "Yun Bai",
+  "comments": "12 pages, 12 figures",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 0,
+  "year": 2024
+},
+{
+  "_id": "1906.00274",
+  "paper_id": "1906.00274",
+  "title": "\"President Vows to Cut <Taxes> Hair\": Dataset and Analysis of Creative\n  Text Editing for Humorous Headlines",
+  "authors": [
+    "Nabil Hossain",
+    "John Krumm",
+    "Michael Gamon"
+  ],
+  "raw_authors_string": "Nabil Hossain, John Krumm, Michael Gamon",
+  "categories": [
+    "cs.CL"
+  ],
+  "selected_category": "cs.CL",
+  "submitter": "Nabil Hossain",
+  "comments": "Accepted in NAACL 2019",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 95,
+  "year": 2019
+},
+{
+  "_id": "2502.13259",
+  "paper_id": "2502.13259",
+  "title": "HumT DumT: Measuring and controlling human-like language in LLMs",
+  "authors": [
+    "Myra Cheng",
+    "Sunny Yu",
+    "Dan Jurafsky"
+  ],
+  "raw_authors_string": "Myra Cheng, Sunny Yu, Dan Jurafsky",
+  "categories": [
+    "cs.CL",
+    "cs.AI",
+    "cs.CY"
+  ],
+  "selected_category": "cs.CL",
+  "submitter": "Myra Cheng",
+  "comments": "Accepted to ACL 2025",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 3,
+  "year": 2025
+},
+{
+  "_id": "2112.08326",
+  "paper_id": "2112.08326",
+  "title": "Is \"My Favorite New Movie\" My Favorite Movie? Probing the Understanding\n  of Recursive Noun Phrases",
+  "authors": [
+    "Qing Lyu",
+    "Hua Zheng",
+    "Daoxin Li",
+    "Li Zhang",
+    "Marianna Apidianaki",
+    "Chris Callison-Burch"
+  ],
+  "raw_authors_string": "Qing Lyu, Hua Zheng, Daoxin Li, Li Zhang, Marianna Apidianaki, Chris\n  Callison-Burch",
+  "categories": [
+    "cs.CL"
+  ],
+  "selected_category": "cs.CL",
+  "submitter": "Qing Lyu",
+  "comments": "NAACL 2022",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 5,
+  "year": 2021
+},
+{
+  "_id": "0810.1790",
+  "paper_id": "0810.1790",
+  "title": "$N+1$ formalism in Einstein-Gauss-Bonnet gravity",
+  "authors": [
+    "Takashi Torii",
+    "Hisa-aki Shinkai"
+  ],
+  "raw_authors_string": "Takashi Torii, Hisa-aki Shinkai",
+  "categories": [
+    "gr-qc"
+  ],
+  "selected_category": "gr-qc",
+  "submitter": "Takashi Torii",
+  "comments": "15pages, no figure, to appear in PRD",
+  "journal_ref": "Phys.Rev.D78:084037,2008",
+  "doi": "10.1103/PhysRevD.78.084037",
+  "report_no": null,
+  "citation_count": 25,
+  "year": 2008
+},
+{
+  "_id": "2103.06601",
+  "paper_id": "2103.06601",
+  "title": "Invariant quantities of Scalar-Tensor Theories for stellar structure",
+  "authors": [
+    "Aleksander Kozak",
+    "Aneta Wojnar"
+  ],
+  "raw_authors_string": "Aleksander Kozak, Aneta Wojnar",
+  "categories": [
+    "gr-qc"
+  ],
+  "selected_category": "gr-qc",
+  "submitter": "Aneta Wojnar",
+  "comments": "13 pages, 2 tables, version accepted to EPJC",
+  "journal_ref": "Eur. Phys. J. C (2021) 81: 492",
+  "doi": "10.1140/epjc/s10052-021-09277-4",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2021
+},
+{
+  "_id": "1805.02504",
+  "paper_id": "1805.02504",
+  "title": "Condensate of $\\mu$-Bose gas as a model of dark matter",
+  "authors": [
+    "A. M. Gavrilik",
+    "I. I. Kachurik",
+    "M. V. Khelashvili",
+    "A. V. Nazarenko"
+  ],
+  "raw_authors_string": "A.M. Gavrilik, I.I. Kachurik, M.V. Khelashvili, A.V. Nazarenko",
+  "categories": [
+    "gr-qc",
+    "astro-ph.GA",
+    "cond-mat.quant-gas",
+    "hep-th"
+  ],
+  "selected_category": "gr-qc",
+  "submitter": "Alexandre Gavrilik",
+  "comments": "17 pages, 2 figures; two refs. corrected, published in Physica A.\n  arXiv admin note: substantial text overlap with arXiv:1709.05931",
+  "journal_ref": "Physica A 506, pp. 835-843 (2018)",
+  "doi": "10.1016/j.physa.2018.05.001",
+  "report_no": null,
+  "citation_count": 26,
+  "year": 2018
+},
+{
+  "_id": "gr-qc/9801048",
+  "paper_id": "gr-qc/9801048",
+  "title": "New Higgs Field Ansatz for Effective Gravity in Flat Space Time",
+  "authors": [
+    "A. Geitner",
+    "M. Hanauske",
+    "E. Hitzer"
+  ],
+  "raw_authors_string": "A. Geitner (1), M. Hanauske (1), E. Hitzer (2) ((1) U. of Konstanz in\n  Germany, (2) U. of Kyoto in Japan)",
+  "categories": [
+    "gr-qc"
+  ],
+  "selected_category": "gr-qc",
+  "submitter": "Eckhard Hitzer",
+  "comments": "10 pages, no figures, LaTeX2e, to appear in: Acta Physica Polonica,\n  Proc. of Gauge Theories of Gravity, Jadwisin, Pl. (9/97)",
+  "journal_ref": "Acta Phys.Polon. B29 (1998) 971-980",
+  "doi": null,
+  "report_no": null,
+  "citation_count": 0,
+  "year": 1998
+},
+{
+  "_id": "1207.2587",
+  "paper_id": "1207.2587",
+  "title": "Detection of single-electron heat transfer statistics",
+  "authors": [
+    "Rafael Sánchez",
+    "Markus Büttiker"
+  ],
+  "raw_authors_string": "Rafael S\\'anchez and Markus B\\\"uttiker",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.stat-mech"
+  ],
+  "selected_category": "cond-mat.mes-hall",
+  "submitter": "Rafael S\\'anchez",
+  "comments": "6 pages, 3 figures. Published version. Corrected after erratum\n  publication",
+  "journal_ref": "EPL 100, 47008 (2012); 104, 49901 (2013)",
+  "doi": "10.1209/0295-5075/100/47008",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2012
+},
+{
+  "_id": "2211.09095",
+  "paper_id": "2211.09095",
+  "title": "Unconventional charge-to-spin conversions in graphene/MoTe2 van der\n  Waals heterostructures",
+  "authors": [
+    "Nerea Ontoso",
+    "C. K. Safeer",
+    "Franz Herling",
+    "Josep Ingla-Aynés",
+    "Haozhe Yang",
+    "Zhendong Chi",
+    "Iñigo Robredo",
+    "Maia G. Vergniory",
+    "Fernando de Juan",
+    "M. Reyes Calvo",
+    "Luis E. Hueso",
+    "Fèlix Casanova"
+  ],
+  "raw_authors_string": "Nerea Ontoso, C.K. Safeer, Franz Herling, Josep Ingla-Ayn\\'es, Haozhe\n  Yang, Zhendong Chi, I\\~nigo Robredo, Maia G. Vergniory, Fernando de Juan, M.\n  Reyes Calvo, Luis E. Hueso, F\\`elix Casanova",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "selected_category": "cond-mat.mes-hall",
+  "submitter": "Reyes Calvo",
+  "comments": "11 pages, 4 figures",
+  "journal_ref": "Phys. Rev. Applied 19, 014053 (2023)",
+  "doi": "10.1103/PhysRevApplied.19.014053",
+  "report_no": null,
+  "citation_count": 9,
+  "year": 2022
+},
+{
+  "_id": "1807.01048",
+  "paper_id": "1807.01048",
+  "title": "Antiferromagnetism emerging in a ferromagnet with gain",
+  "authors": [
+    "Huanhuan Yang",
+    "C. Wang",
+    "Tianlin Yu",
+    "Yunshan Cao",
+    "Peng Yan"
+  ],
+  "raw_authors_string": "Huanhuan Yang, C. Wang, Tianlin Yu, Yunshan Cao, Peng Yan",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.mtrl-sci"
+  ],
+  "selected_category": "cond-mat.mes-hall",
+  "submitter": "Peng Yan",
+  "comments": "6 pages, 5 figures, accepted by PRL",
+  "journal_ref": "Phys. Rev. Lett. 121, 197201 (2018)",
+  "doi": "10.1103/PhysRevLett.121.197201",
+  "report_no": null,
+  "citation_count": 43,
+  "year": 2018
+},
+{
+  "_id": "2407.07050",
+  "paper_id": "2407.07050",
+  "title": "Interplay between Majorana and Shiba states in a minimal Kitaev chain coupled to a superconductor",
+  "authors": [
+    "Miguel Alvarado",
+    "Alfredo Levy Yeyati",
+    "Ramón Aguado",
+    "Rubén Seoane Souto"
+  ],
+  "raw_authors_string": "Miguel Alvarado, Alfredo Levy Yeyati, Ram\\'on Aguado and Rub\\'en Seoane Souto",
+  "categories": [
+    "cond-mat.mes-hall",
+    "cond-mat.supr-con"
+  ],
+  "selected_category": "cond-mat.mes-hall",
+  "submitter": "Miguel Alvarado",
+  "comments": "17 pages, 12 figures",
+  "journal_ref": "Phys. Rev. B 110, 245144 (2024)",
+  "doi": "10.1103/PhysRevB.110.245144",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2024
+},
+{
+  "_id": "2006.10099",
+  "paper_id": "2006.10099",
+  "title": "Mass enhancement in 3d and s-p perovskites from symmetry breaking",
+  "authors": [
+    "Zhi Wang",
+    "Oleksandr I. Malyi",
+    "Xingang Zhao",
+    "Alex Zunger"
+  ],
+  "raw_authors_string": "Zhi Wang, Oleksandr I. Malyi, Xingang Zhao, and Alex Zunger",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "selected_category": "cond-mat.mtrl-sci",
+  "submitter": "Zhi Wang",
+  "comments": null,
+  "journal_ref": "Phys. Rev. B 103, 165110 (2021)",
+  "doi": "10.1103/PhysRevB.103.165110",
+  "report_no": null,
+  "citation_count": 21,
+  "year": 2020
+},
+{
+  "_id": "cond-mat/0003317",
+  "paper_id": "cond-mat/0003317",
+  "title": "Determination of ferroelectric compositional phase transition using\n  novel virtual crystal approach",
+  "authors": [
+    "Nicholas J. Ramer",
+    "Andrew M. Rappe"
+  ],
+  "raw_authors_string": "Nicholas J. Ramer and Andrew M. Rappe",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.dis-nn"
+  ],
+  "selected_category": "cond-mat.mtrl-sci",
+  "submitter": "Nicholas J. Ramer",
+  "comments": "7 pages, 2 figures, Proceedings for Fundamental Physics of\n  Ferroelectrics, Aspen, CO February 13-20, 2000",
+  "journal_ref": null,
+  "doi": "10.1063/1.1324444",
+  "report_no": "ASP-00-02",
+  "citation_count": 1,
+  "year": 2000
+},
+{
+  "_id": "2510.01760",
+  "paper_id": "2510.01760",
+  "title": "Giant enhancement of terahertz high-harmonic generation by cavity engineering of Dirac semimetal",
+  "authors": [
+    "Siyu Duan",
+    "Lili Shi",
+    "Patrick Pilch",
+    "Anneke Reinold",
+    "Sergey Kovalev",
+    "Renato M. A. Dantas",
+    "Yunkun Yang",
+    "Faxian Xiu",
+    "Miriam Serena Vitiello",
+    "Zhe Wang"
+  ],
+  "raw_authors_string": "Siyu Duan, Lili Shi, Patrick Pilch, Anneke Reinold, Sergey Kovalev, Renato M. A. Dantas, Yunkun Yang, Faxian Xiu, Miriam Serena Vitiello, Zhe Wang",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.str-el",
+    "physics.optics"
+  ],
+  "selected_category": "cond-mat.mtrl-sci",
+  "submitter": "Siyu Duan",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2025
+},
+{
+  "_id": "1607.03590",
+  "paper_id": "1607.03590",
+  "title": "Demagnetization factor dependence of energy of thick ferromagnetic films",
+  "authors": [
+    "P. Samarasekara"
+  ],
+  "raw_authors_string": "P. Samarasekara",
+  "categories": [
+    "cond-mat.mtrl-sci"
+  ],
+  "selected_category": "cond-mat.mtrl-sci",
+  "submitter": "Pubudu Samarasekara",
+  "comments": "8 pages, 4 figures",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 0,
+  "year": 2016
+},
+{
+  "_id": "1911.06686",
+  "paper_id": "1911.06686",
+  "title": "Asymptotic behavior of $u$-capacities and singular perturbations for the\n  Dirichlet-Laplacian",
+  "authors": [
+    "Laura Abatangelo",
+    "Virginie Bonnaillie-Noël",
+    "Corentin Léna",
+    "Paolo Musolino"
+  ],
+  "raw_authors_string": "Laura Abatangelo, Virginie Bonnaillie-No\\\"el, Corentin L\\'ena, Paolo\n  Musolino",
+  "categories": [
+    "math.AP",
+    "math.FA"
+  ],
+  "selected_category": "math.AP",
+  "submitter": "Paolo Musolino",
+  "comments": "46 pages, 13 figures",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 6,
+  "year": 2019
+},
+{
+  "_id": "2208.00189",
+  "paper_id": "2208.00189",
+  "title": "Improved homogenization estimates for high order elliptic systems",
+  "authors": [
+    "Svetlana Pastukhova"
+  ],
+  "raw_authors_string": "Svetlana Pastukhova",
+  "categories": [
+    "math.AP"
+  ],
+  "selected_category": "math.AP",
+  "submitter": "Svetlana Pastukhova",
+  "comments": "16 pages",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 0,
+  "year": 2022
+},
+{
+  "_id": "2304.00587",
+  "paper_id": "2304.00587",
+  "title": "Well Posedness and Characterization of Solutions to Non Conservative\n  Products in Non Homogeneous Fluid Dynamics Equations",
+  "authors": [
+    "Rinaldo M. Colombo",
+    "Graziano Guerra",
+    "Yannick Holle"
+  ],
+  "raw_authors_string": "Rinaldo M. Colombo, Graziano Guerra, Yannick Holle",
+  "categories": [
+    "math.AP"
+  ],
+  "selected_category": "math.AP",
+  "submitter": "Rinaldo M. Colombo",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2023
+},
+{
+  "_id": "1009.2005",
+  "paper_id": "1009.2005",
+  "title": "Continuous Dependence of Cauchy Problem For Nonlinear Schr\\\"{o}dinger\n  Equation in $H^{s}$",
+  "authors": [
+    "Wei Dai",
+    "Weihua Yang",
+    "Daomin Cao"
+  ],
+  "raw_authors_string": "Wei Dai, Weihua Yang and Daomin Cao",
+  "categories": [
+    "math.AP",
+    "math-ph",
+    "math.MP"
+  ],
+  "selected_category": "math.AP",
+  "submitter": "Daomin Cao",
+  "comments": "48pages, no figure. arXiv admin note: text overlap with\n  arXiv:1006.2745 by other authors",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 13,
+  "year": 2010
+},
+{
+  "_id": "2412.17901",
+  "paper_id": "2412.17901",
+  "title": "Global and Local Infall in the ASHES Sample (GLASHES). I. Pilot Study in\n  G337.541",
+  "authors": [
+    "Kaho Morii",
+    "Patricio Sanhueza",
+    "Timea Csengeri",
+    "Fumitaka Nakamura",
+    "Sylvain Bontemps",
+    "Guido Garay",
+    "Qizhou Zhang"
+  ],
+  "raw_authors_string": "Kaho Morii, Patricio Sanhueza, Timea Csengeri, Fumitaka Nakamura,\n  Sylvain Bontemps, Guido Garay and Qizhou Zhang",
+  "categories": [
+    "astro-ph.GA"
+  ],
+  "selected_category": "astro-ph.GA",
+  "submitter": "Kaho Morii",
+  "comments": "Accepted for Publication in ApJ. 17 pages, 12 figures, 3 tables",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 3,
+  "year": 2024
+},
+{
+  "_id": "1512.00458",
+  "paper_id": "1512.00458",
+  "title": "Quasar clustering in a galaxy and quasar formation model based on ultra\n  high-resolution N-body simulations",
+  "authors": [
+    "Taira Oogi",
+    "Motohiro Enoki",
+    "Tomoaki Ishiyama",
+    "Masakazu A. R. Kobayashi",
+    "Ryu Makiya",
+    "Masahiro Nagashima"
+  ],
+  "raw_authors_string": "Taira Oogi (1 and 2), Motohiro Enoki (3), Tomoaki Ishiyama (4),\n  Masakazu A. R. Kobayashi (5), Ryu Makiya (6), Masahiro Nagashima (1 and 2)\n  ((1) Bunkyo University, (2) Nagasaki University, (3) Tokyo Keizai University,\n  (4) Chiba University, (5) Ehime University, (6) University of Tokyo)",
+  "categories": [
+    "astro-ph.GA",
+    "astro-ph.CO"
+  ],
+  "selected_category": "astro-ph.GA",
+  "submitter": "Taira Oogi",
+  "comments": "6 pages, 3 figures, to appear in MNRAS Letters",
+  "journal_ref": "Monthly Notices of the Royal Astronomical Society: Letters, Volume\n  456, Issue 1, p.L30-L34 (2016)",
+  "doi": "10.1093/mnrasl/slv169",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2015
+},
+{
+  "_id": "1107.2454",
+  "paper_id": "1107.2454",
+  "title": "Optical Properties of High-Frequency Radio Sources from the Australia\n  Telescope 20 GHz (AT20G) Survey",
+  "authors": [
+    "Elizabeth K. Mahony",
+    "Elaine M. Sadler",
+    "Scott M. Croom",
+    "Ronald D. Ekers",
+    "Keith W. Bannister",
+    "Rajan Chhetri",
+    "Paul J. Hancock",
+    "Helen M. Johnston",
+    "Marcella Massardi",
+    "Tara Murphy"
+  ],
+  "raw_authors_string": "Elizabeth K. Mahony, Elaine M. Sadler, Scott M. Croom, Ronald D.\n  Ekers, Keith W. Bannister, Rajan Chhetri, Paul J. Hancock, Helen M. Johnston,\n  Marcella Massardi and Tara Murphy",
+  "categories": [
+    "astro-ph.GA",
+    "astro-ph.CO"
+  ],
+  "selected_category": "astro-ph.GA",
+  "submitter": "Elizabeth Mahony",
+  "comments": "Accepted for publication in MNRAS",
+  "journal_ref": null,
+  "doi": "10.1111/j.1365-2966.2011.19427.x",
+  "report_no": null,
+  "citation_count": 44,
+  "year": 2011
+},
+{
+  "_id": "1110.5933",
+  "paper_id": "1110.5933",
+  "title": "Metallicity Gradients in the Milky Way Disk as Observed by the SEGUE\n  Survey",
+  "authors": [
+    "Judy Y. Cheng",
+    "Constance M. Rockosi",
+    "Heather L. Morrison",
+    "Ralph A. Schönrich",
+    "Young Sun Lee",
+    "Timothy C. Beers",
+    "Dmitry Bizyaev",
+    "Kaike Pan",
+    "Donald P. Schneider"
+  ],
+  "raw_authors_string": "Judy Y. Cheng, Constance M. Rockosi, Heather L. Morrison, Ralph A.\n  Sch\\\"onrich, Young Sun Lee, Timothy C. Beers, Dmitry Bizyaev, Kaike Pan,\n  Donald P. Schneider",
+  "categories": [
+    "astro-ph.GA"
+  ],
+  "selected_category": "astro-ph.GA",
+  "submitter": "Judy Cheng",
+  "comments": "Submitted to ApJ; 22 pages, 14 figures in emulateapj format; Full\n  resolution version available at\n  http://www.ucolick.org/~jyc/gradient/cheng_apj_fullres.pdf",
+  "journal_ref": "2012, ApJ, 746, 149",
+  "doi": "10.1088/0004-637X/746/2/149",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2011
+},
+{
+  "_id": "2211.03412",
+  "paper_id": "2211.03412",
+  "title": "Optical spectroscopy and band structure calculations of structural phase\n  transition in the Vanadium-based kagome metal ScV$_6$Sn$_6$",
+  "authors": [
+    "Tianchen Hu",
+    "Hanqi Pi",
+    "Shuxiang Xu",
+    "Li Yue",
+    "Qiong Wu",
+    "Qiaomei Liu",
+    "Sijie Zhang",
+    "Rongsheng Li",
+    "Xinyu Zhou",
+    "Jiayu Yuan",
+    "Dong Wu",
+    "Tao Dong",
+    "Hongming Weng",
+    "Nanlin Wang"
+  ],
+  "raw_authors_string": "Tianchen Hu, Hanqi Pi, Shuxiang Xu, Li Yue, Qiong Wu, Qiaomei Liu,\n  Sijie Zhang, Rongsheng Li, Xinyu Zhou, Jiayu Yuan, Dong Wu, Tao Dong,\n  Hongming Weng and Nanlin Wang",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "selected_category": "cond-mat.str-el",
+  "submitter": "Tianchen Hu",
+  "comments": "9 pages, 6 figures",
+  "journal_ref": "Physical Review B 107, 165119 (2023)",
+  "doi": "10.1103/PhysRevB.107.165119",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2022
+},
+{
+  "_id": "2510.00448",
+  "paper_id": "2510.00448",
+  "title": "Possibility of ferro-octupolar order in Ba$_2$CaOsO$_6$ assessed by X-ray magnetic dichroism measurements",
+  "authors": [
+    "Goro Shibata",
+    "Naomi Kawamura",
+    "Jun Okamoto",
+    "Arata Tanaka",
+    "Hiroaki Hayashi",
+    "Kazunari Yamaura",
+    "Hsiao-Yu Huang",
+    "Amol Singh",
+    "Chien-Te Chen",
+    "Di-Jing Huang",
+    "Sergey V. Streltsov",
+    "Atsushi Fujimori"
+  ],
+  "raw_authors_string": "Goro Shibata, Naomi Kawamura, Jun Okamoto, Arata Tanaka, Hiroaki Hayashi, Kazunari Yamaura, Hsiao-Yu Huang, Amol Singh, Chien-Te Chen, Di-Jing Huang, Sergey V. Streltsov, and Atsushi Fujimori",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.mtrl-sci"
+  ],
+  "selected_category": "cond-mat.str-el",
+  "submitter": "Goro Shibata",
+  "comments": "6 pages, 4 figures",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2025
+},
+{
+  "_id": "cond-mat/0201360",
+  "paper_id": "cond-mat/0201360",
+  "title": "Meron-Cluster Approach to Systems of Strongly Correlated Electrons",
+  "authors": [
+    "S. Chandrasekharan",
+    "J. Cox",
+    "J. C. Osborn",
+    "U. -J. Wiese"
+  ],
+  "raw_authors_string": "S. Chandrasekharan (Duke Univ.), J. Cox (MIT), J.C. Osborn (Duke Univ.\n  and U.of Utah) and U.-J. Wiese (MIT and Bern Univ.)",
+  "categories": [
+    "cond-mat.str-el",
+    "cond-mat.supr-con",
+    "hep-lat",
+    "nucl-th"
+  ],
+  "selected_category": "cond-mat.str-el",
+  "submitter": "Shailesh Chandrasekharan",
+  "comments": "36 Pages, 13 figures, plain Latex",
+  "journal_ref": "Nucl.Phys. B673 (2003) 405-436",
+  "doi": "10.1016/j.nuclphysb.2003.08.041",
+  "report_no": null,
+  "citation_count": 16,
+  "year": 2002
+},
+{
+  "_id": "2403.03022",
+  "paper_id": "2403.03022",
+  "title": "Incommensurate broken helix induced by nonstoichiometry in the axion\n  insulator candidate EuIn$_{2}$As$_{2}$",
+  "authors": [
+    "Masaki Gen",
+    "Yukako Fujishiro",
+    "Kazuki Okigami",
+    "Satoru Hayami",
+    "Max T. Birch",
+    "Kiyohiro Adachi",
+    "Daisuke Hashizume",
+    "Takashi Kurumaji",
+    "Hajime Sagayama",
+    "Hironori Nakao",
+    "Yoshinori Tokura",
+    "Taka-hisa Arima"
+  ],
+  "raw_authors_string": "Masaki Gen, Yukako Fujishiro, Kazuki Okigami, Satoru Hayami, Max T.\n  Birch, Kiyohiro Adachi, Daisuke Hashizume, Takashi Kurumaji, Hajime Sagayama,\n  Hironori Nakao, Yoshinori Tokura, and Taka-hisa Arima",
+  "categories": [
+    "cond-mat.str-el"
+  ],
+  "selected_category": "cond-mat.str-el",
+  "submitter": "Masaki Gen",
+  "comments": "6 pages, 5 figures, SM: 13 pages, 9 figures, published in Phys. Rev.\n  B",
+  "journal_ref": null,
+  "doi": "10.1103/PhysRevB.111.L081109",
+  "report_no": null,
+  "citation_count": 1,
+  "year": 2024
+},
+{
+  "_id": "1807.04623",
+  "paper_id": "1807.04623",
+  "title": "Variations of the Catalan numbers from some nonassociative binary\n  operations",
+  "authors": [
+    "Nickolas Hein",
+    "Jia Huang"
+  ],
+  "raw_authors_string": "Nickolas Hein and Jia Huang",
+  "categories": [
+    "math.CO"
+  ],
+  "selected_category": "math.CO",
+  "submitter": "Jia Huang",
+  "comments": "21 pages, revised based on referees' suggestions",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2018
+},
+{
+  "_id": "2506.06924",
+  "paper_id": "2506.06924",
+  "title": "Bivariate asymptotics via random walks: application to large genus maps",
+  "authors": [
+    "Andrew Elvey Price",
+    "Wenjie Fang",
+    "Baptiste Louf",
+    "Michael Wallner"
+  ],
+  "raw_authors_string": "Andrew Elvey Price, Wenjie Fang, Baptiste Louf, Michael Wallner",
+  "categories": [
+    "math.CO",
+    "math.PR"
+  ],
+  "selected_category": "math.CO",
+  "submitter": "Michael Wallner",
+  "comments": "12 pages, 2 figures; extended abstract in FPSAC 2025",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2025
+},
+{
+  "_id": "2204.09340",
+  "paper_id": "2204.09340",
+  "title": "Partitions for stratified sampling",
+  "authors": [
+    "Francois Clement",
+    "Nathan Kirk",
+    "Florian Pausinger"
+  ],
+  "raw_authors_string": "Francois Clement, Nathan Kirk, Florian Pausinger",
+  "categories": [
+    "math.CO",
+    "math.NT"
+  ],
+  "selected_category": "math.CO",
+  "submitter": "Florian Pausinger",
+  "comments": "19 pages, 8 figures, we added extensive numerical results",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 1,
+  "year": 2022
+},
+{
+  "_id": "2312.04532",
+  "paper_id": "2312.04532",
+  "title": "Coxeter interchange graphs",
+  "authors": [
+    "Brett Kolesnik",
+    "Rivka Mitchell",
+    "Tomasz Przybyłowski"
+  ],
+  "raw_authors_string": "Brett Kolesnik, Rivka Mitchell and Tomasz Przyby{\\l}owski",
+  "categories": [
+    "math.CO"
+  ],
+  "selected_category": "math.CO",
+  "submitter": "Brett Kolesnik",
+  "comments": "v3: revised discussions; added figures; results unchanged",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 1,
+  "year": 2023
+},
+{
+  "_id": "1304.2768",
+  "paper_id": "1304.2768",
+  "title": "Resolving the gap and AU-scale asymmetries in the pre-transitional disk\n  of V1247 Orionis",
+  "authors": [
+    "Stefan Kraus",
+    "Michael J. Ireland",
+    "Michael L. Sitko",
+    "John D. Monnier",
+    "Nuria Calvet",
+    "Catherine Espaillat",
+    "Carol A. Grady",
+    "Tim J. Harries",
+    "Sebastian F. Hoenig",
+    "Ray W. Russell",
+    "Jeremy R. Swearingen",
+    "Chelsea Werren",
+    "David J. Wilner"
+  ],
+  "raw_authors_string": "Stefan Kraus, Michael J. Ireland, Michael L. Sitko, John D. Monnier,\n  Nuria Calvet, Catherine Espaillat, Carol A. Grady, Tim J. Harries, Sebastian\n  F. Hoenig, Ray W. Russell, Jeremy R. Swearingen, Chelsea Werren, David J.\n  Wilner",
+  "categories": [
+    "astro-ph.SR"
+  ],
+  "selected_category": "astro-ph.SR",
+  "submitter": "Stefan Kraus",
+  "comments": "16 pages, 17 Figures, accepted by Astrophysical Journal",
+  "journal_ref": null,
+  "doi": "10.1088/0004-637X/768/1/80",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2013
+},
+{
+  "_id": "1202.2216",
+  "paper_id": "1202.2216",
+  "title": "Constraining the optical emission from the double pulsar system\n  J0737-3039",
+  "authors": [
+    "F. R. Ferraro",
+    "R. P. Mignani",
+    "C. Pallanca",
+    "E. Dalessandro",
+    "B. Lanzoni",
+    "A. Pellizzoni",
+    "A. Possenti",
+    "M. Burgay",
+    "F. Camilo",
+    "N. D'Amico",
+    "A. G. Lyne",
+    "M. Kramer",
+    "R. N. Manchester"
+  ],
+  "raw_authors_string": "F. R. Ferraro, R. P. Mignani, C. Pallanca, E. Dalessandro, B. Lanzoni,\n  A. Pellizzoni, A. Possenti, M. Burgay, F. Camilo, N. D'Amico, A. G. Lyne, M.\n  Kramer and R. N. Manchester",
+  "categories": [
+    "astro-ph.SR",
+    "astro-ph.HE"
+  ],
+  "selected_category": "astro-ph.SR",
+  "submitter": "Cristina Pallanca",
+  "comments": "16 pages, 3 figures, ApJ accepted",
+  "journal_ref": null,
+  "doi": "10.1088/0004-637X/749/1/84",
+  "report_no": null,
+  "citation_count": 3,
+  "year": 2012
+},
+{
+  "_id": "1304.4804",
+  "paper_id": "1304.4804",
+  "title": "Rotational quenching of H2CO by molecular hydrogen: cross-sections,\n  rates, pressure broadening",
+  "authors": [
+    "Laurent Wiesenfeld",
+    "Alexandre Faure"
+  ],
+  "raw_authors_string": "Laurent Wiesenfeld and Alexandre Faure",
+  "categories": [
+    "astro-ph.SR"
+  ],
+  "selected_category": "astro-ph.SR",
+  "submitter": "Laurent Wiesenfeld",
+  "comments": null,
+  "journal_ref": null,
+  "doi": "10.1093/mnras/stt616",
+  "report_no": null,
+  "citation_count": 65,
+  "year": 2013
+},
+{
+  "_id": "1604.05040",
+  "paper_id": "1604.05040",
+  "title": "An extreme paucity of second population AGB stars in the normal globular\n  cluster M4",
+  "authors": [
+    "B. T. MacLean",
+    "S. W. Campbell",
+    "G. M. De Silva",
+    "J. Lattanzio",
+    "V. DOrazi",
+    "J. D. Simpson",
+    "Y. Momany"
+  ],
+  "raw_authors_string": "B. T. MacLean, S. W. Campbell, G. M. De Silva, J. Lattanzio, V.\n  DOrazi, J. D. Simpson and Y. Momany",
+  "categories": [
+    "astro-ph.SR",
+    "astro-ph.GA"
+  ],
+  "selected_category": "astro-ph.SR",
+  "submitter": "Benjamin MacLean",
+  "comments": "5 pages, 2 figures, 4 tables (full Table 1 online). Accepted for\n  publication in MNRAS Letters",
+  "journal_ref": null,
+  "doi": "10.1093/mnrasl/slw073",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2016
+},
+{
+  "_id": "2509.19446",
+  "paper_id": "2509.19446",
+  "title": "Vacuum birefringence in the polarized X-ray emission of a radio magnetar",
+  "authors": [
+    "Rachael E. Stewart",
+    "Hoa Dinh Thi",
+    "George Younes",
+    "Marcus E. Lower",
+    "Matthew G. Baring",
+    "Michela Negro",
+    "Fernando Camilo",
+    "Joel B. Coley",
+    "Alice K. Harding",
+    "Wynn C. G. Ho",
+    "Chin-Ping Hu",
+    "Philip Kaaret",
+    "Paul Scholz",
+    "Alex Van Kooten",
+    "Zorawar Wadiasingh"
+  ],
+  "raw_authors_string": "Rachael E. Stewart, Hoa Dinh Thi, George Younes, Marcus E. Lower, Matthew G. Baring, Michela Negro, Fernando Camilo, Joel B. Coley, Alice K. Harding, Wynn C. G. Ho, Chin-Ping Hu, Philip Kaaret, Paul Scholz, Alex Van Kooten, Zorawar Wadiasingh",
+  "categories": [
+    "astro-ph.HE",
+    "hep-ex",
+    "quant-ph"
+  ],
+  "selected_category": "astro-ph.HE",
+  "submitter": "Rachael Stewart",
+  "comments": "submitted; comments welcome",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2025
+},
+{
+  "_id": "2004.10763",
+  "paper_id": "2004.10763",
+  "title": "Looking at Blazar Light Curve Periodicities with Gaussian Processes",
+  "authors": [
+    "Stefano Covino",
+    "Marco Landoni",
+    "Angela Sandrinelli",
+    "Aldo Treves"
+  ],
+  "raw_authors_string": "Stefano Covino (1), Marco Landoni (1), Angela Sandrinelli (1) and Aldo\n  Treves (2) ((1) INAF / Brera Astronomical Observatory, (2) University of\n  Insubria)",
+  "categories": [
+    "astro-ph.HE",
+    "astro-ph.IM"
+  ],
+  "selected_category": "astro-ph.HE",
+  "submitter": "Stefano Covino",
+  "comments": "Astronomical Journal, in press",
+  "journal_ref": null,
+  "doi": "10.3847/1538-4357/ab8bd4",
+  "report_no": null,
+  "citation_count": 23,
+  "year": 2020
+},
+{
+  "_id": "1108.3163",
+  "paper_id": "1108.3163",
+  "title": "The Glashow resonance at IceCube: signatures, event rates and $pp$ vs.\n  $p\\gamma$ interactions",
+  "authors": [
+    "Atri Bhattacharya",
+    "Raj Gandhi",
+    "Werner Rodejohann",
+    "Atsushi Watanabe"
+  ],
+  "raw_authors_string": "Atri Bhattacharya, Raj Gandhi, Werner Rodejohann, Atsushi Watanabe",
+  "categories": [
+    "astro-ph.HE",
+    "hep-ph"
+  ],
+  "selected_category": "astro-ph.HE",
+  "submitter": "Atsushi Watanabe",
+  "comments": "18 pages, 9 figures; the references are updated",
+  "journal_ref": null,
+  "doi": "10.1088/1475-7516/2011/10/017",
+  "report_no": null,
+  "citation_count": 74,
+  "year": 2011
+},
+{
+  "_id": "2009.12283",
+  "paper_id": "2009.12283",
+  "title": "A precise mass measurement of PSR J2045+3633",
+  "authors": [
+    "J. W. McKee",
+    "P. C. C. Freire",
+    "M. Berezina",
+    "D. J. Champion",
+    "I. Cognard",
+    "E. Graikou",
+    "L. Guillemot",
+    "M. J. Keith",
+    "M. Kramer",
+    "A. G. Lyne",
+    "B. W. Stappers",
+    "T. M. Tauris",
+    "G. Theureau"
+  ],
+  "raw_authors_string": "J. W. McKee, P. C. C. Freire, M. Berezina, D. J. Champion, I. Cognard,\n  E. Graikou, L. Guillemot, M. J. Keith, M. Kramer, A. G. Lyne, B. W. Stappers,\n  T. M. Tauris, and G. Theureau",
+  "categories": [
+    "astro-ph.HE",
+    "astro-ph.SR"
+  ],
+  "selected_category": "astro-ph.HE",
+  "submitter": "James McKee Dr.",
+  "comments": "17 pages, 6 figures, accepted for publication in MNRAS",
+  "journal_ref": null,
+  "doi": "10.1093/mnras/staa2994",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2020
+},
+{
+  "_id": "1303.7004",
+  "paper_id": "1303.7004",
+  "title": "Bispectrum in Single-Field Inflation Beyond Slow-Roll",
+  "authors": [
+    "Peter Adshead",
+    "Wayne Hu",
+    "V Miranda"
+  ],
+  "raw_authors_string": "Peter Adshead, Wayne Hu, and V Miranda",
+  "categories": [
+    "astro-ph.CO"
+  ],
+  "selected_category": "astro-ph.CO",
+  "submitter": "Wayne Hu",
+  "comments": "20 pages, 6 figures (typo in A22 corrected)",
+  "journal_ref": "Phys. Rev. D88 023507 (2013)",
+  "doi": "10.1103/PhysRevD.88.023507",
+  "report_no": null,
+  "citation_count": 49,
+  "year": 2013
+},
+{
+  "_id": "2503.20896",
+  "paper_id": "2503.20896",
+  "title": "Dark Energy within the Generalized Uncertainty Principle in Light of DESI DR2",
+  "authors": [
+    "Andronikos Paliathanasis"
+  ],
+  "raw_authors_string": "Andronikos Paliathanasis",
+  "categories": [
+    "astro-ph.CO",
+    "gr-qc",
+    "hep-th"
+  ],
+  "selected_category": "astro-ph.CO",
+  "submitter": "Andronikos Paliathanasis",
+  "comments": "19 pages, 4 figures, to appear in JCAP",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 15,
+  "year": 2025
+},
+{
+  "_id": "1212.1158",
+  "paper_id": "1212.1158",
+  "title": "Evidence for Widespread AGN Activity among Massive Quiescent Galaxies at\n  z ~ 2",
+  "authors": [
+    "Karen Pardos Olsen",
+    "Jesper Rasmussen",
+    "Sune Toft",
+    "Andrew W. Zirm"
+  ],
+  "raw_authors_string": "Karen Pardos Olsen, Jesper Rasmussen, Sune Toft, Andrew W. Zirm",
+  "categories": [
+    "astro-ph.CO"
+  ],
+  "selected_category": "astro-ph.CO",
+  "submitter": "Karen Olsen",
+  "comments": "9 pages, 3 figures, 3 tables; Accepted for publication in ApJ. Minor\n  editing changes and a few references added. Matches published version",
+  "journal_ref": null,
+  "doi": "10.1088/0004-637X/764/1/4",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2012
+},
+{
+  "_id": "2212.00156",
+  "paper_id": "2212.00156",
+  "title": "Signatures of a High Temperature QCD Transition in the Early Universe",
+  "authors": [
+    "Philip Lu",
+    "Volodymyr Takhistov",
+    "George M. Fuller"
+  ],
+  "raw_authors_string": "Philip Lu, Volodymyr Takhistov, George M. Fuller",
+  "categories": [
+    "astro-ph.CO",
+    "astro-ph.HE",
+    "hep-ph"
+  ],
+  "selected_category": "astro-ph.CO",
+  "submitter": "Volodymyr Takhistov",
+  "comments": "9 pages, 3 figures; version published in PRL",
+  "journal_ref": "Phys. Rev. Lett. 130 (2023) 22, 221002",
+  "doi": "10.1103/PhysRevLett.130.221002",
+  "report_no": "IPMU22-0064, KEK-QUP-2022-0017, KEK-TH-2476, KEK-Cosmo-0303",
+  "citation_count": 12,
+  "year": 2022
+},
+{
+  "_id": "cond-mat/9904391",
+  "paper_id": "cond-mat/9904391",
+  "title": "Effective potential for the massless KPZ equation",
+  "authors": [
+    "David Hochberg",
+    "Carmen Molina-Paris",
+    "Juan Perez-Mercader",
+    "Matt Visser"
+  ],
+  "raw_authors_string": "David Hochberg (LAEFF, Centro de Astrobiologia; Madrid), Carmen\n  Molina-Paris (Los Alamos), Juan Perez-Mercader (LAEFF, Centro de\n  Astrobiologia; Madrid), Matt Visser (Washington University in St Louis)",
+  "categories": [
+    "cond-mat.stat-mech",
+    "chao-dyn",
+    "hep-th",
+    "nlin.CD"
+  ],
+  "selected_category": "cond-mat.stat-mech",
+  "submitter": "Matt Visser",
+  "comments": "13 pages, LaTeX 209, ReV_TeX 3.2, three *.eps figures, epsf.sty",
+  "journal_ref": "Physica A280 (2000) 437-455",
+  "doi": "10.1016/S0378-4371(99)00611-1",
+  "report_no": "LA-UR-1718",
+  "citation_count": 8,
+  "year": 1999
+},
+{
+  "_id": "2103.07284",
+  "paper_id": "2103.07284",
+  "title": "Two state model for critical points and the negative slope of the\n  melting-curve",
+  "authors": [
+    "Graeme J. Ackland",
+    "Hongxiang Zong",
+    "Victor Naden Robinson Sandro Scandolo",
+    "Andreas Hermann"
+  ],
+  "raw_authors_string": "Graeme J. Ackland, Hongxiang Zong, Victor Naden Robinson Sandro\n  Scandolo, and Andreas Hermann",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.other"
+  ],
+  "selected_category": "cond-mat.stat-mech",
+  "submitter": "Graeme J. Ackland",
+  "comments": null,
+  "journal_ref": "Phys. Rev. B 104, 054120 (2021)",
+  "doi": "10.1103/PhysRevB.104.054120",
+  "report_no": null,
+  "citation_count": 5,
+  "year": 2021
+},
+{
+  "_id": "0906.0225",
+  "paper_id": "0906.0225",
+  "title": "The interpolation approach to nonextensive quantum systems",
+  "authors": [
+    "Hideo Hasegawa"
+  ],
+  "raw_authors_string": "Hideo Hasegawa (Tokyo Gakugei Univ.)",
+  "categories": [
+    "cond-mat.stat-mech",
+    "cond-mat.mtrl-sci"
+  ],
+  "selected_category": "cond-mat.stat-mech",
+  "submitter": "Hideo Hasegawa",
+  "comments": "23 pages, 16 figures: augmented the text with changed title",
+  "journal_ref": "Physica A 389 (2010) 2358.",
+  "doi": "10.1016/j.physa.2010.02.009",
+  "report_no": null,
+  "citation_count": 11,
+  "year": 2009
+},
+{
+  "_id": "cond-mat/0206382",
+  "paper_id": "cond-mat/0206382",
+  "title": "Star-unitary transformations. From dynamics to irreversibility and\n  stochastic behavior",
+  "authors": [
+    "Sungyun Kim",
+    "Gonzalo Ordonez"
+  ],
+  "raw_authors_string": "Sungyun Kim and Gonzalo Ordonez",
+  "categories": [
+    "cond-mat.stat-mech"
+  ],
+  "selected_category": "cond-mat.stat-mech",
+  "submitter": "Gonzalo E. Ordonez",
+  "comments": "24 pages, no figures. Made more connections with other work.\n  Clarified ideas on irreversibility",
+  "journal_ref": "Phys. Rev. E 67, 056117 (2003)",
+  "doi": "10.1103/PhysRevE.67.056117",
+  "report_no": null,
+  "citation_count": 11,
+  "year": 2002
+},
+{
+  "_id": "1802.02362",
+  "paper_id": "1802.02362",
+  "title": "Scaling limits of general population processes - Wright-Fisher and\n  branching processes in random environment",
+  "authors": [
+    "Vincent Bansaye",
+    "Maria-Emilia Caballero",
+    "Sylvie Méléard"
+  ],
+  "raw_authors_string": "Vincent Bansaye (CMAP), Maria-Emilia Caballero, Sylvie M\\'el\\'eard\n  (CMAP)",
+  "categories": [
+    "math.PR"
+  ],
+  "selected_category": "math.PR",
+  "submitter": "Vincent Bansaye",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2018
+},
+{
+  "_id": "1205.0172",
+  "paper_id": "1205.0172",
+  "title": "Absorption properties of stochastic equations with H\\\"older diffusion\n  coefficients",
+  "authors": [
+    "Jonathan Touboul",
+    "Gilles Wainrib"
+  ],
+  "raw_authors_string": "Jonathan Touboul and Gilles Wainrib",
+  "categories": [
+    "math.PR",
+    "math.DS"
+  ],
+  "selected_category": "math.PR",
+  "submitter": "Jonathan Touboul",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2012
+},
+{
+  "_id": "1607.08669",
+  "paper_id": "1607.08669",
+  "title": "Moderate deviations for stochastic models of two-dimensional second\n  grade fluids",
+  "authors": [
+    "Jianliang Zhai",
+    "Tusheng Zhang",
+    "Wuting Zheng"
+  ],
+  "raw_authors_string": "Jianliang Zhai, Tusheng Zhang, Wuting Zheng",
+  "categories": [
+    "math.PR"
+  ],
+  "selected_category": "math.PR",
+  "submitter": "Wuting Zheng",
+  "comments": "arXiv admin note: text overlap with arXiv:1506.01109",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2016
+},
+{
+  "_id": "1207.4920",
+  "paper_id": "1207.4920",
+  "title": "Stochastic modeling of density-dependent diploid populations and\n  extinction vortex",
+  "authors": [
+    "Camille Coron"
+  ],
+  "raw_authors_string": "Camille Coron (CMAP)",
+  "categories": [
+    "math.PR"
+  ],
+  "selected_category": "math.PR",
+  "submitter": "Camille Coron",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2012
+},
+{
+  "_id": "1909.04576",
+  "paper_id": "1909.04576",
+  "title": "Wall crossing for K-moduli spaces of plane curves",
+  "authors": [
+    "Kenneth Ascher",
+    "Kristin DeVleming",
+    "Yuchen Liu"
+  ],
+  "raw_authors_string": "Kenneth Ascher, Kristin DeVleming, Yuchen Liu",
+  "categories": [
+    "math.AG",
+    "math.DG"
+  ],
+  "selected_category": "math.AG",
+  "submitter": "Kenneth Ascher",
+  "comments": "V2: 94 pages. Many typos fixed, and proofs of Theorems 5.2, 5.14, and\n  5.15 have been clarified (Lemma 5.16 is new). Postscript added (Remark 1.9)\n  to discuss progress in K-moduli since the first version of this paper. To\n  appear in Proceedings of the London Math Society",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2019
+},
+{
+  "_id": "1703.10778",
+  "paper_id": "1703.10778",
+  "title": "On the number of singular points of factorial terminal Fano threefolds",
+  "authors": [
+    "Yu. Prokhorov"
+  ],
+  "raw_authors_string": "Yu. Prokhorov",
+  "categories": [
+    "math.AG"
+  ],
+  "selected_category": "math.AG",
+  "submitter": "Yuri Prokhorov",
+  "comments": "6pages, LaTeX",
+  "journal_ref": "Math. Notes, 2017, 101, 1068-1073",
+  "doi": "10.1134/S0001434617050364",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2017
+},
+{
+  "_id": "2509.15431",
+  "paper_id": "2509.15431",
+  "title": "Invariant Rings of $ \\mathbb{G}_{a} $-Representations are not always Finitely Generated in Positive Characteristic",
+  "authors": [
+    "Stephen Maguire"
+  ],
+  "raw_authors_string": "Stephen Maguire",
+  "categories": [
+    "math.AG"
+  ],
+  "selected_category": "math.AG",
+  "submitter": "Stephen Maguire",
+  "comments": "31 pages",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2025
+},
+{
+  "_id": "0811.0194",
+  "paper_id": "0811.0194",
+  "title": "Linear systems over P1xP1 with base points of multiplicity bounded by\n  three",
+  "authors": [
+    "Tomasz Lenarcik"
+  ],
+  "raw_authors_string": "Tomasz Lenarcik",
+  "categories": [
+    "math.AG"
+  ],
+  "selected_category": "math.AG",
+  "submitter": "Tomasz Lenarcik",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2008
+},
+{
+  "_id": "2407.09900",
+  "paper_id": "2407.09900",
+  "title": "Fast and Provable Simultaneous Blind Super-Resolution and Demixing for\n  Point Source Signals: Scaled Gradient Descent without Regularization",
+  "authors": [
+    "Jinchi Chen"
+  ],
+  "raw_authors_string": "Jinchi Chen",
+  "categories": [
+    "cs.IT",
+    "math.IT"
+  ],
+  "selected_category": "cs.IT",
+  "submitter": "Jinchi Chen",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2024
+},
+{
+  "_id": "1309.3591",
+  "paper_id": "1309.3591",
+  "title": "Optimal Power Allocation for Parameter Tracking in a Distributed\n  Amplify-and-Forward Sensor Network",
+  "authors": [
+    "Feng Jiang",
+    "Jie Chen",
+    "A. Lee Swindlehurst"
+  ],
+  "raw_authors_string": "Feng Jiang and Jie Chen and A. Lee Swindlehurst",
+  "categories": [
+    "cs.IT",
+    "math.IT"
+  ],
+  "selected_category": "cs.IT",
+  "submitter": "Feng Jiang",
+  "comments": "28 pages, 6 figures, accepted by IEEE Transactions on Signal\n  Processing, Jan. 2014",
+  "journal_ref": null,
+  "doi": "10.1109/TSP.2014.2304434",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2013
+},
+{
+  "_id": "2401.01564",
+  "paper_id": "2401.01564",
+  "title": "Deep Learning Based Superposition Coded Modulation for Hierarchical\n  Semantic Communications over Broadcast Channels",
+  "authors": [
+    "Yufei Bo",
+    "Shuo Shao",
+    "Meixia tao"
+  ],
+  "raw_authors_string": "Yufei Bo, Shuo Shao, and Meixia tao",
+  "categories": [
+    "cs.IT",
+    "eess.SP",
+    "math.IT"
+  ],
+  "selected_category": "cs.IT",
+  "submitter": "Yufei Bo",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2024
+},
+{
+  "_id": "2109.15315",
+  "paper_id": "2109.15315",
+  "title": "Brand Attitude in Social Networks: The Role of eWoM",
+  "authors": [
+    "Azita Pourkabirian",
+    "Melika Habibian",
+    "Azadeh Pourkabirian"
+  ],
+  "raw_authors_string": "Azita Pourkabirian, Melika Habibian, Azadeh Pourkabirian",
+  "categories": [
+    "cs.IT",
+    "math.IT"
+  ],
+  "selected_category": "cs.IT",
+  "submitter": "Melika Habibian",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 5,
+  "year": 2021
+},
+{
+  "_id": "1704.02822",
+  "paper_id": "1704.02822",
+  "title": "Asymptotic ensemble stabilizability of the Bloch equation",
+  "authors": [
+    "Francesca Chittaro",
+    "Jean-Paul Gauthier"
+  ],
+  "raw_authors_string": "Francesca Chittaro (LSIS), Jean-Paul Gauthier (LSIS)",
+  "categories": [
+    "math.OC"
+  ],
+  "selected_category": "math.OC",
+  "submitter": "Francesca Carlotta Chittaro",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2017
+},
+{
+  "_id": "1210.4532",
+  "paper_id": "1210.4532",
+  "title": "Necessary conditions involving Lie brackets for impulsive optimal\n  control problems; the commutative case",
+  "authors": [
+    "Maria Soledad Aronna",
+    "Franco Rampazzo"
+  ],
+  "raw_authors_string": "Maria Soledad Aronna and Franco Rampazzo",
+  "categories": [
+    "math.OC"
+  ],
+  "selected_category": "math.OC",
+  "submitter": "Maria Soledad Aronna",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2012
+},
+{
+  "_id": "2406.09901",
+  "paper_id": "2406.09901",
+  "title": "A penalty barrier framework for nonconvex constrained optimization",
+  "authors": [
+    "Alberto De Marchi",
+    "Andreas Themelis"
+  ],
+  "raw_authors_string": "Alberto De Marchi and Andreas Themelis",
+  "categories": [
+    "math.OC"
+  ],
+  "selected_category": "math.OC",
+  "submitter": "Andreas Themelis",
+  "comments": null,
+  "journal_ref": "Journal of Nonsmooth Analysis and Optimization, Volume 5, Original research articles (August 19, 2025) jnsao:14585",
+  "doi": "10.46298/jnsao-2025-14585",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2024
+},
+{
+  "_id": "2308.15257",
+  "paper_id": "2308.15257",
+  "title": "Uniform Turnpike Property and Singular Limits",
+  "authors": [
+    "Martin Hernandez",
+    "Enrique Zuazua"
+  ],
+  "raw_authors_string": "Martin Hernandez, Enrique Zuazua",
+  "categories": [
+    "math.OC"
+  ],
+  "selected_category": "math.OC",
+  "submitter": "Martin Hernandez Salinas",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2023
+},
+{
+  "_id": "1706.09342",
+  "paper_id": "1706.09342",
+  "title": "Restrictions of Eisenstein series and Rankin-Selberg convolution",
+  "authors": [
+    "Rodney Keaton",
+    "Ameya Pitale"
+  ],
+  "raw_authors_string": "Rodney Keaton and Ameya Pitale",
+  "categories": [
+    "math.NT"
+  ],
+  "selected_category": "math.NT",
+  "submitter": "Rodney Keaton",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2017
+},
+{
+  "_id": "1908.09742",
+  "paper_id": "1908.09742",
+  "title": "A diophantine system",
+  "authors": [
+    "Ajai Choudhry"
+  ],
+  "raw_authors_string": "Ajai Choudhry",
+  "categories": [
+    "math.NT"
+  ],
+  "selected_category": "math.NT",
+  "submitter": "Ajai Choudhry",
+  "comments": "4 pages",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2019
+},
+{
+  "_id": "1908.07791",
+  "paper_id": "1908.07791",
+  "title": "Torsion groups of Mordell curves over cubic and sextic fields",
+  "authors": [
+    "Pallab Kanti Dey",
+    "Bidisha Roy"
+  ],
+  "raw_authors_string": "Pallab Kanti Dey and Bidisha Roy",
+  "categories": [
+    "math.NT"
+  ],
+  "selected_category": "math.NT",
+  "submitter": "Bidisha Roy",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2019
+},
+{
+  "_id": "2007.04114",
+  "paper_id": "2007.04114",
+  "title": "Arithmetic constraints of polynomial maps through discrete logarithms",
+  "authors": [
+    "Lucas Reis"
+  ],
+  "raw_authors_string": "Lucas Reis",
+  "categories": [
+    "math.NT"
+  ],
+  "selected_category": "math.NT",
+  "submitter": "Lucas Da Silva Reis",
+  "comments": "Comments are welcome!",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2020
+},
+{
+  "_id": "1704.03945",
+  "paper_id": "1704.03945",
+  "title": "Axially deformed solution of the Skyrme-Hartree-Fock-Bogolyubov\n  equations using the transformed harmonic oscillator basis (III) hfbtho\n  (v3.00): a new version of the program",
+  "authors": [
+    "R. Navarro Perez",
+    "N. Schunck",
+    "R. -D. Lasseri",
+    "C. Zhang",
+    "J. Sarich"
+  ],
+  "raw_authors_string": "R. Navarro Perez, N. Schunck, R.-D. Lasseri, C. Zhang, and J. Sarich",
+  "categories": [
+    "nucl-th"
+  ],
+  "selected_category": "nucl-th",
+  "submitter": "Nicolas Schunck Dr",
+  "comments": "29 pages, 3 figures, 4 tables; Submitted to Computer Physics\n  Communications",
+  "journal_ref": "Comput. Phys. Commun. 220, 363 (2017)",
+  "doi": "10.1016/j.cpc.2017.06.022",
+  "report_no": null,
+  "citation_count": null,
+  "year": 2017
+},
+{
+  "_id": "nucl-th/0011086",
+  "paper_id": "nucl-th/0011086",
+  "title": "Electromagnetic K+ production on the deuteron with hyperon recoil\n  polarization",
+  "authors": [
+    "K. Miyagawa",
+    "H. Yamamura",
+    "T. Mart",
+    "C. Bennhold",
+    "H. Haberzettl",
+    "W. Gloeckle"
+  ],
+  "raw_authors_string": "K. Miyagawa, H. Yamamura, T. Mart, C. Bennhold, H. Haberzettl, W.\n  Gloeckle",
+  "categories": [
+    "nucl-th"
+  ],
+  "selected_category": "nucl-th",
+  "submitter": "Terry Mart",
+  "comments": "4 pages, 7 eps-figures, talk given at the VII International\n  Conference on Hypernuclear and Strange Particle Physics, Torino, Italy,\n  October 23-27, 2000, to appear in the proceedings (Nucl. Phys. A)",
+  "journal_ref": "Nucl.Phys. A691 (2001) 64-67",
+  "doi": "10.1016/S0375-9474(01)01008-9",
+  "report_no": null,
+  "citation_count": 0,
+  "year": 2000
+},
+{
+  "_id": "nucl-th/9606061",
+  "paper_id": "nucl-th/9606061",
+  "title": "Microscopic description of light unstable nuclei with the stochastic\n  variational method",
+  "authors": [
+    "K. Varga",
+    "Y. Suzuki",
+    "K. Arai",
+    "Y. Ogawa"
+  ],
+  "raw_authors_string": "K. Varga, Y. Suzuki, K. Arai and Y. Ogawa",
+  "categories": [
+    "nucl-th"
+  ],
+  "selected_category": "nucl-th",
+  "submitter": "Kalman Varga",
+  "comments": "11 pages, latex, no figures.",
+  "journal_ref": null,
+  "doi": "10.1016/S0375-9474(97)00105-X",
+  "report_no": "1996N2",
+  "citation_count": 4,
+  "year": 1996
+},
+{
+  "_id": "nucl-th/9808050",
+  "paper_id": "nucl-th/9808050",
+  "title": "Omega- and Phi-meson production in pn -> dV reactions and OZI-rule\n  violation",
+  "authors": [
+    "L. A. Kondratyuk",
+    "Ye. S. Golubeva",
+    "M. Buescher"
+  ],
+  "raw_authors_string": "L. A. Kondratyuk (1), Ye. S. Golubeva (2), M. Buescher (3) ((1) ITEP\n  Moscow (2) INR Moscow (3) Forschungszentrum Juelich)",
+  "categories": [
+    "nucl-th"
+  ],
+  "selected_category": "nucl-th",
+  "submitter": "Markus Buescher",
+  "comments": "19 pages, 7 figures, gzipped tar file",
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 0,
+  "year": 1998
+},
+{
+  "_id": "2402.00677",
+  "paper_id": "2402.00677",
+  "title": "Neural Policy Style Transfer",
+  "authors": [
+    "Raul Fernandez-Fernandez",
+    "Juan G. Victores",
+    "Jennifer J. Gago",
+    "David Estevez",
+    "Carlos Balaguer"
+  ],
+  "raw_authors_string": "Raul Fernandez-Fernandez, Juan G. Victores, Jennifer J. Gago, David\n  Estevez, Carlos Balaguer",
+  "categories": [
+    "cs.RO",
+    "cs.AI",
+    "cs.LG",
+    "cs.NE"
+  ],
+  "selected_category": "cs.RO",
+  "submitter": "Raul Fernandez",
+  "comments": null,
+  "journal_ref": "Cognitive Systems Research, Volume 72, March 2022, Pages 23 to 32",
+  "doi": "10.1016/j.cogsys.2021.11.003",
+  "report_no": null,
+  "citation_count": 4,
+  "year": 2024
+},
+{
+  "_id": "2103.14633",
+  "paper_id": "2103.14633",
+  "title": "Visionary: Vision architecture discovery for robot learning",
+  "authors": [
+    "Iretiayo Akinola",
+    "Anelia Angelova",
+    "Yao Lu",
+    "Yevgen Chebotar",
+    "Dmitry Kalashnikov",
+    "Jacob Varley",
+    "Julian Ibarz",
+    "Michael S. Ryoo"
+  ],
+  "raw_authors_string": "Iretiayo Akinola, Anelia Angelova, Yao Lu, Yevgen Chebotar, Dmitry\n  Kalashnikov, Jacob Varley, Julian Ibarz, Michael S. Ryoo",
+  "categories": [
+    "cs.RO",
+    "cs.CV",
+    "cs.LG",
+    "cs.NE"
+  ],
+  "selected_category": "cs.RO",
+  "submitter": "Michael S. Ryoo",
+  "comments": null,
+  "journal_ref": "ICRA 2021",
+  "doi": null,
+  "report_no": null,
+  "citation_count": null,
+  "year": 2021
+},
+{
+  "_id": "2407.21762",
+  "paper_id": "2407.21762",
+  "title": "ReplanVLM: Replanning Robotic Tasks with Visual Language Models",
+  "authors": [
+    "Aoran Mei",
+    "Guo-Niu Zhu",
+    "Huaxiang Zhang",
+    "Zhongxue Gan"
+  ],
+  "raw_authors_string": "Aoran Mei, Guo-Niu Zhu, Huaxiang Zhang, and Zhongxue Gan",
+  "categories": [
+    "cs.RO"
+  ],
+  "selected_category": "cs.RO",
+  "submitter": "Mei Aoran",
+  "comments": null,
+  "journal_ref": null,
+  "doi": null,
+  "report_no": null,
+  "citation_count": 31,
+  "year": 2024
+},
+{
+  "_id": "1509.02302",
+  "paper_id": "1509.02302",
+  "title": "Developing and Comparing Single-arm and Dual-arm Regrasp",
+  "authors": [
+    "Weiwei Wan",
+    "Kensuke Harada"
+  ],
+  "raw_authors_string": "Weiwei Wan and Kensuke Harada",
+  "categories": [
+    "cs.RO"
+  ],
+  "selected_category": "cs.RO",
+  "submitter": "Weiwei Wan",
+  "comments": null,
+  "journal_ref": null,
+  "doi": "10.1109/LRA.2016.2517147",
+  "report_no": null,
+  "citation_count": 71,
+  "year": 2015
+}]
