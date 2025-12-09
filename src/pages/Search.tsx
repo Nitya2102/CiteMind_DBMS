@@ -5,12 +5,14 @@ import { PaperCard, Paper } from "@/components/PaperCard";
 import { useSearchParams } from "react-router-dom";
 import { Badge } from "@/components/ui/badge";
 
-interface NLPOutput {
+interface VectorEmbedding {
+  _id: string;
   summary: string;
   keywords: string[];
   fields: string[];
   novelty: string;
   related_work: string[];
+  embedding: number[];
 }
 
 interface MetaPaper {
@@ -19,11 +21,6 @@ interface MetaPaper {
   authors: string[];
   year: number;
   selected_category: string;
-}
-
-interface NLPData {
-  paper_id: string;
-  nlp_output: NLPOutput;
 }
 
 const CATEGORY_MAP: Record<string, string> = {
@@ -86,26 +83,26 @@ const Search = () => {
     const loadData = async () => {
       try {
         const metaRes = await fetch("/CiteMind.Paper_MetaData.json");
-        const nlpRes = await fetch("/CiteMind.nlp_output.json");
+        const vectorRes = await fetch("/CiteMind.vector_embeddings.json");
 
         const metaData: MetaPaper[] = await metaRes.json();
-        const nlpData: NLPData[] = await nlpRes.json();
+        const vectorData: VectorEmbedding[] = await vectorRes.json();
 
-        // Create a map of paper_id to NLP output for quick lookup
-        const nlpMap = new Map<string, NLPOutput>();
-        nlpData.forEach((item) => {
-          nlpMap.set(item.paper_id, item.nlp_output);
+        // Create a map of paper_id to vector embedding for quick lookup
+        const vectorMap = new Map<string, VectorEmbedding>();
+        vectorData.forEach((item) => {
+          vectorMap.set(item._id, item);
         });
 
         const processed: Paper[] = metaData.map((m) => {
-          const nlp = nlpMap.get(m.paper_id);
+          const vector = vectorMap.get(m.paper_id);
           return {
             id: m.paper_id,
             title: m.title,
             authors: m.authors,
             year: m.year,
             venue: CATEGORY_MAP[m.selected_category] || "Unknown",
-            topics: nlp?.fields || [m.selected_category],
+            topics: vector?.fields || [m.selected_category],
             relevanceScore: Math.random(),
           };
         });

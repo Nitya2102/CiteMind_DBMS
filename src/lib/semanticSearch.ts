@@ -1,8 +1,14 @@
+// src/lib/semanticSearch.ts - RESTORED CLIENT-SIDE VERSION
+
+const API_BASE = "http://127.0.0.1:8000";
+
 interface VectorEmbedding {
   _id: string;
   summary: string;
   keywords: string[];
   fields: string[];
+  novelty: string;
+  related_work: string[];
   embedding: number[];
 }
 
@@ -17,9 +23,11 @@ interface MetaPaper {
 }
 
 /**
- * Cosine similarity between two vectors
+ * Cosine similarity calculation
  */
-function cosineSimilarity(vecA: number[], vecB: number[]): number {
+export function cosineSimilarity(vecA: number[], vecB: number[]): number {
+  if (!vecA || !vecB || vecA.length !== vecB.length) return 0;
+
   let dotProduct = 0;
   let normA = 0;
   let normB = 0;
@@ -38,95 +46,7 @@ function cosineSimilarity(vecA: number[], vecB: number[]): number {
 }
 
 /**
- * Generate embedding for a search query using simple averaging
- * This is a fallback - ideally you'd use a proper embedding model
- */
-function generateQueryEmbedding(query: string, referenceEmbeddings: number[][]): number[] {
-  if (referenceEmbeddings.length === 0) return [];
-
-  const embeddingDim = referenceEmbeddings[0].length;
-  const embedding = new Array(embeddingDim).fill(0);
-
-  // Simple approach: average embeddings of papers containing query words
-  const queryWords = query.toLowerCase().split(/\s+/);
-  let count = 0;
-
-  referenceEmbeddings.forEach((emb) => {
-    // Simple heuristic: weight by relevance
-    embedding.forEach((_, i) => {
-      embedding[i] += emb[i];
-    });
-    count++;
-  });
-
-  // Average
-  return embedding.map((val) => (count > 0 ? val / count : val));
-}
-
-interface SearchOptions {
-  limit?: number;
-  minSimilarity?: number;
-}
-
-/**
- * Search papers using vector embeddings
- */
-export async function searchByEmbedding(
-  query: string,
-  options: SearchOptions = {}
-): Promise<any[]> {
-  const { limit = 20, minSimilarity = 0.3 } = options;
-
-  try {
-    const embedRes = await fetch("/CiteMind.vector_embeddings.json");
-    const metaRes = await fetch("/CiteMind.Paper_MetaData.json");
-
-    if (!embedRes.ok || !metaRes.ok) {
-      throw new Error("Failed to fetch data");
-    }
-
-    const embeddings: VectorEmbedding[] = await embedRes.json();
-    const metadata: MetaPaper[] = await metaRes.json();
-
-    // Extract all embeddings for query generation
-    const allVectors = embeddings.map((e) => e.embedding);
-
-    // Generate query embedding
-    const queryEmbedding = generateQueryEmbedding(query, allVectors);
-
-    // Calculate similarities
-    const results = embeddings
-      .map((item, idx) => {
-        const similarity = cosineSimilarity(queryEmbedding, item.embedding);
-        const meta = metadata.find((m) => m.paper_id === item._id || m._id === item._id);
-
-        return {
-          similarity,
-          paper: {
-            id: item._id,
-            title: meta?.title || "Unknown Title",
-            authors: meta?.authors || [],
-            year: meta?.year || 0,
-            abstract: item.summary,
-            category: meta?.selected_category || "Unknown",
-            keywords: item.keywords,
-            fields: item.fields,
-          },
-        };
-      })
-      .filter((result) => result.similarity >= minSimilarity)
-      .sort((a, b) => b.similarity - a.similarity)
-      .slice(0, limit);
-
-    return results.map((r) => r.paper);
-  } catch (err) {
-    console.error("Error in semantic search:", err);
-    return [];
-  }
-}
-
-/**
- * Search by keywords/filters
+ * Keyword-based search (client-side)
  */
 export async function searchByKeywords(
   keywords: string[],
@@ -141,15 +61,20 @@ export async function searchByKeywords(
 
     return embeddings
       .map((item) => {
-        const meta = metadata.find((m) => m.paper_id === item._id || m._id === item._id);
-
-        // Check if keywords match
-        const keywordMatch = keywords.some((kw) =>
-          item.keywords.some((k) => k.toLowerCase().includes(kw.toLowerCase()))
+        const meta = metadata.find(
+          (m) => m.paper_id === item._id || m._id === item._id
         );
 
-        // Check if fields match
-        const fieldMatch = !fields || fields.length === 0 || fields.some((f) => item.fields.includes(f));
+        const keywordMatch = keywords.some((kw) =>
+          item.keywords.some((k) =>
+            k.toLowerCase().includes(kw.toLowerCase())
+          )
+        );
+
+        const fieldMatch =
+          !fields ||
+          fields.length === 0 ||
+          fields.some((f) => item.fields.includes(f));
 
         return {
           match: keywordMatch && fieldMatch,
@@ -174,9 +99,12 @@ export async function searchByKeywords(
 }
 
 /**
- * Find similar papers to a given paper
+ * Find similar papers using embeddings (client-side)
  */
-export async function findSimilarPapers(paperId: string, limit: number = 5): Promise<any[]> {
+export async function findSimilarPapers(
+  paperId: string,
+  limit: number = 5
+): Promise<any[]> {
   try {
     const embedRes = await fetch("/CiteMind.vector_embeddings.json");
     const metaRes = await fetch("/CiteMind.Paper_MetaData.json");
@@ -184,16 +112,14 @@ export async function findSimilarPapers(paperId: string, limit: number = 5): Pro
     const embeddings: VectorEmbedding[] = await embedRes.json();
     const metadata: MetaPaper[] = await metaRes.json();
 
-    // Find the query paper
     const queryPaper = embeddings.find((e) => e._id === paperId);
     if (!queryPaper) {
       console.error("Paper not found");
       return [];
     }
 
-    // Find similar papers
     const results = embeddings
-      .filter((e) => e._id !== paperId) // Exclude the query paper itself
+      .filter((e) => e._id !== paperId)
       .map((item) => {
         const similarity = cosineSimilarity(queryPaper.embedding, item.embedding);
         const meta = metadata.find((m) => m.paper_id === item._id || m._id === item._id);
@@ -209,6 +135,7 @@ export async function findSimilarPapers(paperId: string, limit: number = 5): Pro
             category: meta?.selected_category || "Unknown",
             keywords: item.keywords,
             fields: item.fields,
+            similarity,
           },
         };
       })
@@ -219,5 +146,55 @@ export async function findSimilarPapers(paperId: string, limit: number = 5): Pro
   } catch (err) {
     console.error("Error finding similar papers:", err);
     return [];
+  }
+}
+
+/**
+ * Detect research gaps using embeddings (client-side)
+ */
+export async function detectResearchGap(
+  paperId: string
+): Promise<{
+  paperId: string;
+  uniqueKeywords: string[];
+  researchGaps: string[];
+  clusterSize: number;
+} | null> {
+  try {
+    const embedRes = await fetch("/CiteMind.vector_embeddings.json");
+    if (!embedRes.ok) throw new Error("Failed to fetch embeddings");
+
+    const papers: VectorEmbedding[] = await embedRes.json();
+
+    const paper = papers.find((p) => p._id === paperId);
+    if (!paper) return null;
+
+    const clusterPapers: VectorEmbedding[] = [paper];
+
+    papers.forEach((p) => {
+      if (p._id === paperId) return;
+
+      const sharedKeywords = paper.keywords.filter((k) => p.keywords.includes(k));
+      const embeddingSimilarity = cosineSimilarity(paper.embedding, p.embedding);
+
+      if (sharedKeywords.length >= 2 || embeddingSimilarity > 0.6) {
+        clusterPapers.push(p);
+      }
+    });
+
+    const uniqueKeywords = paper.keywords.filter((kw) => {
+      const count = clusterPapers.filter((p) => p.keywords.includes(kw)).length;
+      return count === 1;
+    });
+
+    return {
+      paperId,
+      uniqueKeywords,
+      researchGaps: paper.related_work || [],
+      clusterSize: clusterPapers.length,
+    };
+  } catch (err) {
+    console.error("Error detecting research gap:", err);
+    return null;
   }
 }
